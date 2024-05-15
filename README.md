@@ -1,7 +1,3 @@
-# React.js Profile Card
-
-![image](https://github.com/Kuzma02/Profile-Card-In-React/assets/138793624/ba614e22-10dc-40e8-8735-ad2f0b3b184c)
-
 # Project Overview
 This repository contains a profile card component built using React.js. Designed to showcase user profiles in a sleek and modern design, this component is perfect for integrating into personal websites, dashboards, or team display pages.
 
